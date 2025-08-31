@@ -5,6 +5,11 @@ Built with **TypeScript, HTML, and Tailwind CSS** using **Generative AI tools**,
 
 ---
 
+## 🌍 Live Demo  
+👉 [mars-rover-facts-generator.vercel.app](https://mars-rover-facts-generator.vercel.app/)
+
+---
+
 ## ✨ Features  
 - Displays random Mars rover facts  
 - Responsive and minimal UI with Tailwind CSS  

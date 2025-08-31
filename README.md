@@ -12,6 +12,22 @@ Built with **TypeScript, HTML, and Tailwind CSS** using **Generative AI tools**,
 
 ---
 
+## 📸 Screenshots  
+
+### 🏠 Homepage  
+![Homepage](./assets/Homepage.png)  
+
+### 🔄 Analyzing data
+![Analyzing](./assets/Analyzing.png)  
+
+### 🤖 New Fact (Example 1)  
+![New Fact 1](./assets/New%20Fact%201.png)  
+
+### 🤖 New Fact (Example 2)  
+![New Fact 2](./assets/New%20Fact%202.png) 
+
+---
+
 ## 🔧 Tech Stack  
 - **TypeScript**  
 - **HTML**  

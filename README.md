@@ -47,7 +47,8 @@ cd mars-rover-facts-generator
 ```
 
 ---
-**P.S.** Yes, this project was made with Generative AI — but here’s the thing: not everyone can just throw prompts at an AI and magically end up with a functional, visually appealing UI.  
-It takes skill to guide the AI, refine its messy outputs, and turn them into something polished — and I did that in *very little time*.  
+**P.S.** Yes, this project was made with Generative AI but here’s the thing: not everyone can just throw prompts at an AI and magically end up with a functional, visually appealing UI.  
+It takes skill to guide the AI, refine its messy outputs, and turn them into something polished and I did that in *very little time*.  
 
 So, while the code may have started in the AI’s hands, the final product reflects **my ability to prompt, adapt, and design**. That’s the real skill I’m showing here 🚀
+In the corporate world, speed is everything and I’ve shown I can ship stuff at lightspeed without losing quality. So yeah, you can trust me when the clock’s ticking, not as a last resort but as the go-to person who gets it done :D
